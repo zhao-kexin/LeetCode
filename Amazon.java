@@ -1,3 +1,7 @@
+/**
+ * This is an Amazon focused collection of leetcode questions.
+ */
+
 import java.util.*;
 
 // can be optimized with math instead of if statements
